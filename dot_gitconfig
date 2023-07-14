@@ -1,0 +1,10 @@
+[user]
+	name = Lucas Taylor
+	email = lucas@perfectlunacy.com
+[color]
+	ui = true
+[push]
+	default = matching
+[core]
+	editor = vim
+	excludesfile = /home/lucas/.gitignore
